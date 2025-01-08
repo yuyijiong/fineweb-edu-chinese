@@ -16,7 +16,6 @@ from text_dedup.utils.hashfunc import xxh3_128_digest
 #from text_dedup.utils.load import load_hf_dataset
 from text_dedup.utils.memory import DisableReferenceCount
 from text_dedup.utils.timer import Timer
-#from 全局去重minhash import load_hf_dataset,get_scored_dir_list
 import ray
 from read_parquet import load_hf_dataset
 import setproctitle
