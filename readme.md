@@ -2,6 +2,7 @@
 
 [数据集下载](https://huggingface.co/collections/opencsg/high-quality-chinese-training-datasets-66cfed105f502ece8f29643e)
 
+[技术报告](https://arxiv.org/abs/2501.08197)
 
 ## Fineweb-edu-chinese
 
